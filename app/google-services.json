@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1034599675167",
+    "project_id": "travel-stories-415ae",
+    "storage_bucket": "travel-stories-415ae.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034599675167:android:d3eced36d61c27a77a2c2a",
+        "android_client_info": {
+          "package_name": "com.example.travel_stories"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJiWZq64CqBUDpxXF5lA1GN8ubEUReSvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
